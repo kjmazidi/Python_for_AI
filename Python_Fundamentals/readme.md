@@ -1,4 +1,4 @@
-# This series of 10 notebooks provides an introduction to Python.
+### This series of 10 notebooks provides an introduction to Python.
 
 * 00 - Setting up Python
 * 01 - Getting Started with Python
