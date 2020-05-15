@@ -10,3 +10,5 @@
 * 07 - Dicts
 * 08 - Classes
 * 09 - Wrapping Up
+
+The folder sample_progs includes the programs I demonstrated in PyCharm.
