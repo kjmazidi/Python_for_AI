@@ -1,4 +1,10 @@
+## Part 1 Python Fundamentals
+
+See the accompanying videos here: https://www.youtube.com/c/JaniceMazidi
+Check out the Python Fundamentals playlist. 
+
 ### This series of 10 notebooks provides an introduction to Python.
+
 
 * 00 - Setting up Python
 * 01 - Getting Started with Python
@@ -11,4 +17,4 @@
 * 08 - Classes
 * 09 - Wrapping Up
 
-The folder sample_progs includes the programs I demonstrated in PyCharm.
+The folder sample_progs includes sample programs you can run in an IDE.
